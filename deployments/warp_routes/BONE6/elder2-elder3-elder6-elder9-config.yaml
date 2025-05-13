@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../schema.json
+tokens:
+  - addressOrDenom: "0xBc030E764B050fcC78Fd5C84e10C5d64AED8E467"
+    chainName: elder2
+    connections:
+      - token: ethereum|elder3|0x66F3022da9555f5a3Cea147606c89416AACc6F56
+      - token: ethereum|elder6|0x31F6B6421d3A86cedF400764e837c28e6C6eb000
+      - token: ethereum|elder9|0xF69a81e29Ddf11ab8EBb577A94965e4da578072A
+    decimals: 18
+    name: Bone6 Native
+    standard: EvmHypSynthetic
+    symbol: BONE6
+  - addressOrDenom: "0x66F3022da9555f5a3Cea147606c89416AACc6F56"
+    chainName: elder3
+    connections:
+      - token: ethereum|elder2|0xBc030E764B050fcC78Fd5C84e10C5d64AED8E467
+      - token: ethereum|elder6|0x31F6B6421d3A86cedF400764e837c28e6C6eb000
+      - token: ethereum|elder9|0xF69a81e29Ddf11ab8EBb577A94965e4da578072A
+    decimals: 18
+    name: Bone6 Native
+    standard: EvmHypSynthetic
+    symbol: BONE6SYN
+  - addressOrDenom: "0x31F6B6421d3A86cedF400764e837c28e6C6eb000"
+    chainName: elder6
+    connections:
+      - token: ethereum|elder2|0xBc030E764B050fcC78Fd5C84e10C5d64AED8E467
+      - token: ethereum|elder3|0x66F3022da9555f5a3Cea147606c89416AACc6F56
+      - token: ethereum|elder9|0xF69a81e29Ddf11ab8EBb577A94965e4da578072A
+    decimals: 18
+    name: Bone6 Native
+    standard: EvmHypNative
+    symbol: BONE6
+  - addressOrDenom: "0xF69a81e29Ddf11ab8EBb577A94965e4da578072A"
+    chainName: elder9
+    connections:
+      - token: ethereum|elder2|0xBc030E764B050fcC78Fd5C84e10C5d64AED8E467
+      - token: ethereum|elder3|0x66F3022da9555f5a3Cea147606c89416AACc6F56
+      - token: ethereum|elder6|0x31F6B6421d3A86cedF400764e837c28e6C6eb000
+    decimals: 18
+    name: Bone6 Native
+    standard: EvmHypSynthetic
+    symbol: BONE6

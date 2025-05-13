@@ -1,0 +1,21 @@
+name: elder2
+displayName: ELDER_2
+chainId: 4032025
+domainId: 4032025
+protocol: ethereum
+rpcUrls:
+  - http: https://hyperlane-devnet.rollup.shibinternal.com/rpc/elder2
+  # - http: http://localhost:9999/elder2
+isTestnet: true
+nativeToken:
+  name: BONE2
+  symbol: BONE2
+  decimals: 18
+blocks:
+  confirmations: 1
+  estimateBlockTime: 2
+  reorgPeriod: 0
+blockExplorers:
+  - url: http://54.227.30.27:801/
+    apiUrl: http://54.227.30.27:801/
+    name: elder2.blockscout.com

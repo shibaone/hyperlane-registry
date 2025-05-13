@@ -1,0 +1,21 @@
+name: elder9
+displayName: ELDER_9
+chainId: 421321
+domainId: 421321
+protocol: ethereum
+rpcUrls:
+  - http: https://hyperlane-devnet.rollup.shibinternal.com/rpc/elder9
+  # - http: http://localhost:9999/elder9
+isTestnet: true
+nativeToken:
+  name: BONE9
+  symbol: BONE9
+  decimals: 18
+blocks:
+  confirmations: 1
+  estimateBlockTime: 2
+  reorgPeriod: 0
+blockExplorers:
+  - url: http://54.234.127.234:801
+    apiUrl: http://54.234.127.234:801
+    name: elder9.blockscout.com
