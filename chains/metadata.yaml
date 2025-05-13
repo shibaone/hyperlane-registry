@@ -1,0 +1,85 @@
+# AUTO-GENERATED; DO NOT EDIT MANUALLY
+elder2:
+  blockExplorers:
+    - apiUrl: http://54.227.30.27:801/
+      name: elder2.blockscout.com
+      url: http://54.227.30.27:801/
+  blocks:
+    confirmations: 1
+    estimateBlockTime: 2
+    reorgPeriod: 0
+  chainId: 4032025
+  displayName: ELDER_2
+  domainId: 4032025
+  isTestnet: true
+  name: elder2
+  nativeToken:
+    decimals: 18
+    name: BONE2
+    symbol: BONE2
+  protocol: ethereum
+  rpcUrls:
+    - http: https://hyperlane-devnet.rollup.shibinternal.com/rpc/elder2
+elder3:
+  blockExplorers:
+    - apiUrl: http://52.23.197.172:801
+      name: elder3.blockscout.com
+      url: http://52.23.197.172:801
+  blocks:
+    confirmations: 1
+    estimateBlockTime: 2
+    reorgPeriod: 0
+  chainId: 42069
+  displayName: ELDER_3
+  domainId: 42069
+  isTestnet: true
+  name: elder3
+  nativeToken:
+    decimals: 18
+    name: BONE3
+    symbol: BONE3
+  protocol: ethereum
+  rpcUrls:
+    - http: https://hyperlane-devnet.rollup.shibinternal.com/rpc/elder3
+elder6:
+  blockExplorers:
+    - apiUrl: http://18.204.225.60:801
+      name: elder6.blockscout.com
+      url: http://18.204.225.60:801
+  blocks:
+    confirmations: 1
+    estimateBlockTime: 2
+    reorgPeriod: 0
+  chainId: 111111
+  displayName: ELDER_6
+  domainId: 111111
+  isTestnet: true
+  name: elder6
+  nativeToken:
+    decimals: 18
+    name: BONE6
+    symbol: BONE6
+  protocol: ethereum
+  rpcUrls:
+    - http: https://hyperlane-devnet.rollup.shibinternal.com/rpc/elder6
+elder9:
+  blockExplorers:
+    - apiUrl: http://54.234.127.234:801
+      name: elder9.blockscout.com
+      url: http://54.234.127.234:801
+  blocks:
+    confirmations: 1
+    estimateBlockTime: 2
+    reorgPeriod: 0
+  chainId: 421321
+  displayName: ELDER_9
+  domainId: 421321
+  isTestnet: true
+  name: elder9
+  nativeToken:
+    decimals: 18
+    name: BONE9
+    symbol: BONE9
+  protocol: ethereum
+  rpcUrls:
+    - http: https://hyperlane-devnet.rollup.shibinternal.com/rpc/elder9
