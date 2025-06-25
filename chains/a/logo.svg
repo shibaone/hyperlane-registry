@@ -8,8 +8,8 @@
           fill="none" stroke="#FF6B6B" stroke-width="4"/>
     
     <!-- Chain ID Text -->
-    <text x="100" y="120" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle">4032026</text>
+    <text x="100" y="120" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle">82643</text>
     
     <!-- Chain Name -->
-    <text x="100" y="180" font-family="Arial" font-size="16" fill="#FF6B6B" text-anchor="middle">ELDER_3</text>
+    <text x="100" y="180" font-family="Arial" font-size="16" fill="#FF6B6B" text-anchor="middle">Foundation A</text>
 </svg> 

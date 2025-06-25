@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../schema.json
+tokens:
+  - addressOrDenom: "0xE1DbdD4Dd69CB5cD60Bbe83Bf71F760190EA5EC5"
+    chainName: a
+    connections:
+      - token: ethereum|b|0xED1aE8949675D169b5F977Eb193FA6E6df7c7279
+    decimals: 18
+    name: BONEA
+    standard: EvmHypNative
+    symbol: BONEA
+  - addressOrDenom: "0xED1aE8949675D169b5F977Eb193FA6E6df7c7279"
+    chainName: b
+    connections:
+      - token: ethereum|a|0xE1DbdD4Dd69CB5cD60Bbe83Bf71F760190EA5EC5
+    decimals: 18
+    name: BONEA
+    standard: EvmHypSynthetic
+    symbol: BONEA

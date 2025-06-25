@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../hyperlane-explorer"
+		},
+		{
+			"name": "hyperlane-registry",
+			"path": "."
+		}
+	],
+  "settings": {}
+}

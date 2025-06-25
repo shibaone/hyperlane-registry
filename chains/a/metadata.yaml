@@ -1,0 +1,22 @@
+name: a
+displayName: FOUNDATION_A
+chainId: 82643
+domainId: 82643
+protocol: ethereum
+rpcUrls:
+  - http: https://foundation.testnetrollup.shib.io/rpc/foundation-a
+  # - http: http://localhost:9999/elder2
+isTestnet: true
+nativeToken:
+  name: BONEA
+  symbol: BONEA
+  decimals: 18
+blocks:
+  confirmations: 1
+  estimateBlockTime: 2
+  reorgPeriod: 0
+blockExplorers:
+  - url: http://52.23.130.3:801/
+    family: blockscout
+    apiUrl: http://52.23.130.3:801/
+    name: foundation-a.blockscout.com

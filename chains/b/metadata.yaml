@@ -1,0 +1,22 @@
+name: b
+displayName: FOUNDATION_B
+chainId: 67010
+domainId: 67010
+protocol: ethereum
+rpcUrls:
+  - http: https://foundation.testnetrollup.shib.io/rpc/foundation-b
+  # - http: http://localhost:9999/elder3
+isTestnet: true
+nativeToken:
+  name: BONEB
+  symbol: BONEB
+  decimals: 18
+blocks:
+  confirmations: 1
+  estimateBlockTime: 2
+  reorgPeriod: 0
+blockExplorers:
+  - url: http://52.73.123.243:801
+    family: blockscout
+    apiUrl: http://52.73.123.243:801
+    name: foundation-b.blockscout.com
